@@ -10,7 +10,8 @@ Run:
 Build library:
     cargo build --release
 Run test executable:
-    cargo run --bin main
+    rustc main.rs --extern rust_bot=target/release/librust_bot.rlib
+    ./main
 
 ## Ruby bot
 Run:
@@ -18,4 +19,4 @@ Run:
 
 ---
 
-Combine these components in een backend naar keuze (bijvoorbeeld Go, Python of Node.js) door ze als subprocessen aan te roepen of via FFI te koppelen.
+Combine these components in a backend of your choice (e.g. Go, Python, or Node.js) by calling them as subprocesses or via FFI.
