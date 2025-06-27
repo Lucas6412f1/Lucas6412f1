@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm a **13-year-old self-taught developer** from Lelystad, The Netherlands. My journey into the world of code began in **2024**, at the age of 12, and I proudly celebrated my 13th birthday on **April 6, 2025**. Currently in my second year of high school, I am passionately dedicated to expanding my knowledge and skills in software development.
+I'm a **13-year-old self-taught developer and f1 enthusiast** from Lelystad, The Netherlands. My journey into the world of code began in **2024**, at the age of 12, and I proudly celebrated my 13th birthday on **April 6, 2025**. Currently in my second year of high school, I am passionately dedicated to expanding my knowledge and skills in software development.
 
 Driven by an insatiable curiosity, I find immense satisfaction in transforming abstract ideas into functional code. The thrill of seeing my creations come to life on screen is what truly fuels my motivation. I firmly believe in the power of **'learning by doing'**, eagerly applying theoretical concepts to build practical, impactful projects. I thrive on new challenges and am always keen to understand the underlying mechanisms of technology.
 
