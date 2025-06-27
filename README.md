@@ -1,20 +1,8 @@
-<div align="center">
-  <pre>
-  █████████████████████████████████████████
-  █  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  █
-  █  ▒ [code] [____] [X]              ▒  █
-  █  ▒ .............................. ▒  █
-  █  ▒ .............................. ▒  █
-  █  ▒                               ▒  █
-  █  ▒  >_ Initializing developer mode...▒  █
-  █  ▒  >_ Building something awesome...▒  █
-  █  ▒  _                            ▒  █
-  █  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  █
-  █████████████████████████████████████████
-  </pre>
-  
-  <h1>👋 Hey there, I'm Lucas Siewe!</h1>
-</div>
+# 👋 Hey there, I'm Lucas Siewe!
+
+<p align="center">
+  <img src="./Pixel art.png" width="300" alt="Pixel art coder" />
+</p>
 
 ---
 
@@ -36,6 +24,7 @@ Here are some of the key languages and tools I actively work with or am currentl
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
 ---
 
 ### What I'm Currently Building & Learning
@@ -65,4 +54,5 @@ I'm always enthusiastic about connecting with fellow developers, discussing inno
 ---
 
 > "The only way to do great work is to love what you do."
-> <br>— Steve Jobs
+> 
+> — Steve Jobs
