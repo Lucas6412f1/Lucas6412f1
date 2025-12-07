@@ -48,7 +48,6 @@ My GitHub repositories stand as a testament to my ongoing learning and practical
 
 I'm always enthusiastic about connecting with fellow developers, discussing innovative ideas, exploring potential collaborations, or simply engaging in a good conversation about code and technology. Feel free to reach out to me—I'd love to hear from you!
 
-* 📧 Email: [Lucas6412f1@gmail.com](mailto:Lucas6412f1@gmail.com)
 * 🎮 Discord: [discordapp.com/users/1305464617924952074](https://discordapp.com/users/1305464617924952074)
 
 ---
