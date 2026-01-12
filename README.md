@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm a **13-year-old self-taught developer and f1 enthusiast** from Lelystad, The Netherlands. My journey into the world of code began in **2024**, at the age of 12, and I proudly celebrated my 13th birthday on **April 6, 2025**. Currently in my second year of high school, I am passionately dedicated to expanding my knowledge and skills in software development.
+I'm a **13-year-old self-taught developer and f1 enthusiast** from Lelystad, The Netherlands. My journey into the world of code began in **2024**, at the age of 12. Currently in my second year of high school, I am passionately dedicated to expanding my knowledge and skills in software development.
 
 Driven by an insatiable curiosity, I find immense satisfaction in transforming abstract ideas into functional code. The thrill of seeing my creations come to life on screen is what truly fuels my motivation. I firmly believe in the power of **'learning by doing'**, eagerly applying theoretical concepts to build practical, impactful projects. I thrive on new challenges and am always keen to understand the underlying mechanisms of technology.
 
@@ -49,9 +49,4 @@ My GitHub repositories stand as a testament to my ongoing learning and practical
 I'm always enthusiastic about connecting with fellow developers, discussing innovative ideas, exploring potential collaborations, or simply engaging in a good conversation about code and technology. Feel free to reach out to me—I'd love to hear from you!
 
 * 🎮 Discord: [discordapp.com/users/1305464617924952074](https://discordapp.com/users/1305464617924952074)
-
----
-
-> "The only way to do great work is to love what you do."
-> 
-> — Steve Jobs
+* Mail me at: [mailto:Lucas6412f1@gmail.com]
